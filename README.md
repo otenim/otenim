@@ -1,6 +1,8 @@
 
 [![star stats](https://github-readme-stats.vercel.app/api?username=otenim&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otenim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # About Me
 
 * :man_student: Ph.D candidate majoring in computer science at Keio University (will graduate in March 2023).
