@@ -5,8 +5,9 @@
 
 # About Me
 
-* :man_student: Ph.D candidate majoring in computer science at Keio University (will graduate in March 2023).
+* :man_student: Ph.D candidate majoring in computer science at Tokyo.
 * :memo: Research interests: Edge AI, FPGA
 * :video_game: Favorite online game: Escape from Tarkov
-* :martial_arts_uniform: Long-term MMA fanboy (UFC/ONE/Bellator/Rizin)
+* :martial_arts_uniform: Life-time MMA fanboy (UFC/ONE/Bellator/Rizin)
 * :musical_note: Love playing instruments (piano, electric guitar)
+* 🤘Love Metallica
