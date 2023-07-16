@@ -5,8 +5,7 @@
 
 # About Me
 
-* :man_student: Ph.D candidate majoring in computer science at Tokyo.
-* :memo: Research interests: Edge AI, FPGA
+* Interests: Edge AI, FPGA
 * :video_game: Favorite online game: Escape from Tarkov
 * :martial_arts_uniform: Life-time MMA fanboy (UFC/ONE/Bellator/Rizin)
 * :musical_note: Love playing instruments (piano, electric guitar)
