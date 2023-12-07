@@ -5,8 +5,7 @@
 
 # About Me
 
-* Interests: Edge AI, FPGA
-* :video_game: Favorite online game: Escape from Tarkov
-* :martial_arts_uniform: Life-time MMA fanboy (UFC/ONE/Bellator/Rizin)
-* :musical_note: Love playing instruments (piano, electric guitar)
+* Interests: AI, FPGA, Crypto, MMA
+* :martial_arts_uniform: Life-time MMA fanboy (UFC/ONE/Bellator/PFL/Rizin)
+* :musical_note: Love playing instruments (electric guitar)
 * 🤘Love Metallica
